@@ -1,0 +1,1 @@
+CREATE TABLE NewTable AS SELECT * FROM EmployeeInfo; 

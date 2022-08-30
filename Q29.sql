@@ -1,0 +1,1 @@
+SELECT EmpPosition, SUM(Salary) from EmployeePosition GROUP BY EmpPosition; 

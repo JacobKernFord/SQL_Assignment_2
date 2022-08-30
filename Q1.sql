@@ -1,0 +1,1 @@
+SELECT UPPER(EmpFname) AS EmpName FROM EmployeeInfo;

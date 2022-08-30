@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM EmployeeInfo WHERE Department = 'HR'; 

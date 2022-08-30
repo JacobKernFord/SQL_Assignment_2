@@ -1,0 +1,1 @@
+SELECT MID(Address, 0, LOCATE('(',Address)) FROM EmployeeInfo;

@@ -1,0 +1,1 @@
+SELECT * FROM EmployeeInfo ORDER BY EmpFname desc, Department asc; 

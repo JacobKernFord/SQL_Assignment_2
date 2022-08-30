@@ -1,0 +1,1 @@
+SELECT department, COUNT(EmpID) as 'EmpNo' FROM EmployeeInfo GROUP BY DEPARTMENT HAVING COUNT(EmpID) < 2; 

@@ -1,0 +1,1 @@
+SELECT SUBSTRING(EmpLname, 1, 4) FROM EmployeeInfo; 

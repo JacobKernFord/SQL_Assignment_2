@@ -1,0 +1,1 @@
+SELECT * FROM EmployeeInfo WHERE Address LIKE 'DELHI(DEL)%'; 

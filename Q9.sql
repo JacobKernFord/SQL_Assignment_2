@@ -1,0 +1,1 @@
+SELECT TOP N * FROM EmployeePosition ORDER BY Salary DESC; 
